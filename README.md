@@ -1,0 +1,1 @@
+This app is created with Framework7 Template. The repository contains only the edited files apart from the default ones, that come with the template. To emulate the app, replace the files with the ones in here.
